@@ -10,7 +10,7 @@ export default function App() {
         backgroundColor: "gold"
       }}
     >
-      <Text style={{fontSize: 24}}>My name is Isaiah</Text>
+      <Text style={{fontSize: 24}}>My name is <Text style={{fontWeight: "bold"}}>Isaiah</Text></Text>
     </View>
   );
 }
