@@ -10,7 +10,7 @@ export default function App() {
         backgroundColor: "gold"
       }}
     >
-      <Text>Universal React with Expo</Text>
+      <Text>My name is Isaiah</Text>
     </View>
   );
 }
